@@ -72,12 +72,17 @@ For Frontend :
 
 |   Page   | Elements |
 | ------------- | ------------- |
-|      Login      |    Registration , Login    |
-|     Main Page   |     Contacts , About us      |
+|      Login Page      |    Forgot Password    |
+|            |     Login    |
+|     Landing Page   |     Contact      |
 |        |      About us      |
-|      Age      |       30      |
-|      Name     |  Omarov Daniyar      |
-|  Objective |  Daniyar works as a teacher and he needs a platform that will allow him to teach children and upload lecture material|
+|        |      Feedback      |
+|        |      tutorial of learning process      |
+|        |      About us      |
+|        |      Courses      |
+|      Enrolled Courses      |       Student      |
+|           |  Teacher      |
+|   |  Materials |
 
 
 ## Pages / Activities 
@@ -107,4 +112,4 @@ Our chat and streaming engine, which is a key differentiator for our startup, ca
 *Put here images of your wireframes*
 
 ## Future iterations
-*Write your future iterations*
+In the future, you can also add the ability to add tests and students to share the screen
