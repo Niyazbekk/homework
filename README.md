@@ -9,7 +9,6 @@
 This project is yet-another clone of Udemy
 
 ## Alternatives / Market research
-| Research alternatives
 Our project is an educational platform that will help students and teachers to facilitate the learning process. After studying alternative platforms, our team came to the conclusion that all online platforms are traditionally used in the educational field, although they are rather inconvenient. For example, [Google Classroom] is used in educational organizations,
 there are all the traditional features (publishing lecture material, homework, comments), but many users complain about inconvenient class link, users also need to have a Google account.
 [Moodle] also has all the traditional features, but the best visual tracking of the progress of the learning material. But it also has many disadvantages, the platform is difficult to learn and not intuitive, difficult to develop and change. There is also a platform in which the author of the material can put a price. For example, [Udemy], in which there are all the functions as in the platforms presented earlier. The biggest plus is that 90% of the material is video. The project will take the best of the alternatives, such as design, homework uploads and lectures and video tutorials.
