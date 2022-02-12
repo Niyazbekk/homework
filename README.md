@@ -67,16 +67,29 @@ For Frontend :
 
 ## Sitemap, Page descriptions
 
-*Display sitemap here*
+![uml2 (1)](https://user-images.githubusercontent.com/55174577/153723927-162490ef-e9ce-4a00-a828-12192ecfcd72.png)
+
+
+|   Page   | Elements |
+| ------------- | ------------- |
+|      Login      |    Registration , Login    |
+|     Main Page   |     Contacts , About us      |
+|        |      About us      |
+|      Age      |       30      |
+|      Name     |  Omarov Daniyar      |
+|  Objective |  Daniyar works as a teacher and he needs a platform that will allow him to teach children and upload lecture material|
 
 
 ## Pages / Activities 
 We will have following pages:
-- Latest posts of friends
-- Posts from location of user
-- Take a photo page
-- Personal page
+- Page with contact information
+- Page with courses with description
+- List of groups page 
+- Chat with teacher/student page
+- Enrolled course page
 - Settings page
+- HomeWork page
+- Streaming page
 
 
 ## Non-Functional requirements
