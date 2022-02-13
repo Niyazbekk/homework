@@ -45,7 +45,7 @@ After analysing the market, we can create an educational platform. Which will no
 |     Gender   |     Male      |
 |      Age      |       21      |
 |      Name     |  Shokanov Rassul      |
-|  Objective |  Russul doesn't like lectures and falls asleep all the time and he wants to be able to watch lectures in his spare time|
+|  Objective |  Rassul doesn't like lectures and falls asleep all the time and he wants to be able to watch lectures in his spare time|
 
 
 |   User Type   | Website User (External) |
