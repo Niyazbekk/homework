@@ -41,22 +41,31 @@ After analysing the market, we can create an educational platform. Which will no
 
 |   User Type   | Website User (External) |
 | ------------- | ------------- |
+|      Job      |    Student    |
+|     Gender   |     Male      |
+|      Age      |       21      |
+|      Name     |  Shokanov Rassul      |
+|  Objective |  Russul doesn't like lectures and falls asleep all the time and he wants to be able to watch lectures in his spare time|
+
+
+|   User Type   | Website User (External) |
+| ------------- | ------------- |
 |      Job      |    Teacher    |
 |     Gender   |     Male      |
 |      Age      |       30      |
 |      Name     |  Omarov Daniyar      |
-|  Objective |  Daniyar works as a teacher and he needs a platform that will allow him to teach children and upload lecture material|
+|  Objective |  Daniyar works as a teacher at the university and he wants to make learning easier for students so that they can watch the lecture at any time and consolidate their knowledge with homework|
 
 
 ## User stories
 
 *Website Student*
 
-As a student I want to be able to give lectures and get homework and have a chat with the teacher.
+As a student, I want to be able to watch lectures at any time. I also want to consolidate my knowledge with homework and if there are problems, write to the teacher.
 
 *Website Teacher*
 
-As a teacher, I want to be able to upload homework and lectures.
+As a teacher, I want to be able to upload homework and lectures. Also write to students and correct their mistakes
 
 ## Technologies
 In our project we use for Backend : **Java** , **postgresql** , **Spring Boot** , **Spring Data** , **thymeleaf/mustache** , **Spring Security** , **Lombok**
@@ -94,7 +103,6 @@ We will have following pages:
 - Enrolled course page
 - Settings page
 - HomeWork page
-- Streaming page
 
 
 ## Non-Functional requirements
@@ -103,13 +111,23 @@ We will have following pages:
  - The application must be built on Java
  - The application must work in all modern browsers
  - The application must be responsive (work well and look good on all screen sizes)
+ - The application must be able to support 100 simultaneous users
 
 
 ## Risks
-Our chat and streaming engine, which is a key differentiator for our startup, can be tricky to code.
+ - Our chat and streaming engine, which is a key differentiator for our startup, can be tricky to code.
 
 ## Mockups, Wireframes
-*Put here images of your wireframes*
+Wireframe 1 : Pen & Paper Sketch
+![photo_2022-02-13 21 28 25](https://user-images.githubusercontent.com/55174577/153760341-14cb6fd3-53a6-4758-b2f3-81d4e241d720.jpeg)
+
+Wireframe 2 : Prototype Tool
+[Uploading Снимок экрана 2022-02-13 в 21.19.55.png…]()
+
 
 ## Future iterations
-In the future, you can also add the ability to add tests and students to share the screen
+
+|   Feature   | Description |
+| ------------- | ------------- |
+|      Test      |    a feature with which teachers can add tests for students    |
+|        Proctoring    |     a feature that allows teachers to see the student's screen during the test     |
