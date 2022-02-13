@@ -6,7 +6,7 @@
 + **Yeleuzhan Sattibayev** (*180107016*) - Full-Stack Developer
 
 ## Project
-This project is yet-another clone of Udemy
+This project is Educational Platform.
 
 ## Alternatives / Market research
 Our project is an educational platform that will help students and teachers to facilitate the learning process. After studying alternative platforms, our team came to the conclusion that all online platforms are traditionally used in the educational field, although they are rather inconvenient. For example, [Google Classroom] is used in educational organizations,
