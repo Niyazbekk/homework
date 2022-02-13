@@ -119,10 +119,12 @@ We will have following pages:
 
 ## Mockups, Wireframes
 Wireframe 1 : Pen & Paper Sketch
+
 ![photo_2022-02-13 21 28 25](https://user-images.githubusercontent.com/55174577/153760341-14cb6fd3-53a6-4758-b2f3-81d4e241d720.jpeg)
 
 Wireframe 2 : Prototype Tool
-[Uploading Снимок экрана 2022-02-13 в 21.19.55.png…]()
+
+<img width="881" alt="Снимок экрана 2022-02-13 в 21 29 51" src="https://user-images.githubusercontent.com/55174577/153760410-f87a0bad-e856-4fc9-b80e-09edb802633e.png">
 
 
 ## Future iterations
