@@ -20,12 +20,16 @@ there are all the traditional features (publishing lecture material, homework, c
 
 ## Goals
 * What is the purpose of this project?
+
 Our goal is to create an educational platform which which will be lighter and more practical than other platforms
 * What are the problems it will solve?
+
 The platform solves the problem of distance learning and knowledge control for an educational institution.
 * How will it streamline or improve the current process or facilitate a new process?
+
 Our platform will solve the problems with education as it will be lighter and simpler than others . It will also be free
 * What is the product vision?
+
 After analysing the market, we can create an educational platform. Which will not only solve the problem of learning, but also socialisation, since during the study a person is in a group. For example, some homework assignments are solved jointly. Some of the courses provide training in groups.
 
 ## User Personas
